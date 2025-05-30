@@ -18,6 +18,7 @@ A handy tool to capture screenshots from Adobe Illustrator documents, tailored f
 1. Make sure Adobe Illustrator is open and the active document matches the device you want to capture screenshots for (iPhone or iPad).
 
 2. Run the Screenshot Tool.
+   Command -> ./captureScreenshot.sh
 
 3. The tool will capture screenshots based on the active Illustrator document.
 
